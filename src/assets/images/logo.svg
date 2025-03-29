@@ -1,0 +1,16 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Letra A -->
+  <path d="M15 5L5 35H10L12 28H23L25 35H30L20 5H15ZM13.5 23L17.5 10L21.5 23H13.5Z" fill="#0085FF"/>
+
+  <!-- Letras LIGN -->
+  <path d="M35 5H40V30H55V35H35V5Z" fill="#333333"/>
+  <path d="M60 5H65V35H60V5Z" fill="#333333"/>
+  <path d="M70 35V5H75L85 25V5H90V35H85L75 15V35H70Z" fill="#333333"/>
+  <path d="M95 5H110V10H105V35H100V10H95V5Z" fill="#333333"/>
+
+  <!-- Símbolo de alinhamento -->
+  <rect x="112" y="5" width="3" height="30" rx="1.5" fill="#00C875"/>
+  <rect x="112" y="12" width="8" height="3" rx="1.5" fill="#00C875"/>
+  <rect x="112" y="19" width="5" height="3" rx="1.5" fill="#00C875"/>
+  <rect x="112" y="26" width="8" height="3" rx="1.5" fill="#00C875"/>
+</svg>
